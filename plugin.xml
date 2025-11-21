@@ -50,7 +50,7 @@
 
         <!-- Habilitar Swift en el plugin -->
         <preference name="UseSwiftLanguageVersion" value="5" />
-        <preference name="deployment-target" value="15.6" />
+        <preference name="deployment-target" value="16.0" />
         <config-file parent="SwiftVersion" target="build.xcconfig">
             <string>5.0</string>
         </config-file>
